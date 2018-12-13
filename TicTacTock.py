@@ -3,6 +3,7 @@ from tkinter import ttk
 from tkinter import messagebox as mb
 from random import randint
 
+##practice.. It's not my code
 
 #global Various
 ActivePlayer = 1
